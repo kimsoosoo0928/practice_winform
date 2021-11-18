@@ -1,0 +1,10 @@
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.exe.config
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.exe
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.pdb
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.AssemblyReference.cache
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Form1.resources
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Properties.Resources.resources
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.GenerateResource.cache
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.exe
+C:\Users\kimso\source\repos\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.pdb

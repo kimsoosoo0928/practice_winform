@@ -1,0 +1,10 @@
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\bin\Debug\winFormCalC.exe.config
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\bin\Debug\winFormCalC.exe
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\bin\Debug\winFormCalC.pdb
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.csproj.AssemblyReference.cache
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.Form1.resources
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.Properties.Resources.resources
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.csproj.GenerateResource.cache
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.exe
+C:\Users\kimso\source\repos\winFormCalC\winFormCalC\obj\Debug\winFormCalC.pdb

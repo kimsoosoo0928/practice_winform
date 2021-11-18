@@ -1,0 +1,10 @@
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\bin\Debug\Practice_Calc.exe.config
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\bin\Debug\Practice_Calc.exe
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\bin\Debug\Practice_Calc.pdb
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.csproj.AssemblyReference.cache
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.Form1.resources
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.Properties.Resources.resources
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.csproj.GenerateResource.cache
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.exe
+C:\Users\kimso\source\repos\Practice_Calc\Practice_Calc\obj\Debug\Practice_Calc.pdb

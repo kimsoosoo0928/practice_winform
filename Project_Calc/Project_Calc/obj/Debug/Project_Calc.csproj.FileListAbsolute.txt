@@ -1,0 +1,10 @@
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\bin\Debug\Project_Calc.exe.config
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\bin\Debug\Project_Calc.exe
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\bin\Debug\Project_Calc.pdb
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.csproj.AssemblyReference.cache
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.Form1.resources
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.Properties.Resources.resources
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.csproj.GenerateResource.cache
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.csproj.CoreCompileInputs.cache
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.exe
+C:\Users\kimso\source\repos\Project_Calc\Project_Calc\obj\Debug\Project_Calc.pdb
